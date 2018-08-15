@@ -1,0 +1,26 @@
+{
+  "name": "better-loop",
+  "version": "0.0.1",
+  "description": "better loop and iterate",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MICKeyzwo/better-loop.git"
+  },
+  "keywords": [
+    "loop",
+    "iterate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MICKeyzwo/better-loop/issues"
+  },
+  "homepage": "https://github.com/MICKeyzwo/better-loop#readme"
+}
